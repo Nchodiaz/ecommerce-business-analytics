@@ -140,5 +140,4 @@ Chen, D. (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository.
 ## Author
 
 **Ignacio Díaz** — Data Analyst · Python · SQL · Power BI  
-[LinkedIn](https://www.linkedin.com/in/nachodiaz/) · [GitHub](https://github.com/Nchodiaz)
-
+[LinkedIn](https://www.linkedin.com/in/nachodiazgcom/) · [GitHub](https://github.com/Nchodiaz)
