@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+.streamlit/secrets.toml
+
+# Rebuild locally from the official UCI source.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Local exports; selected portfolio artifacts are copied to reports/.
+exports/*
+!exports/.gitkeep
+
+# Local visual-QA renders used while producing the final workbook.
+assets/workbook-previews/
